@@ -4,5 +4,7 @@ Pasta
 Pizza
 Chicken
 
+Beans
+Eggs
 
 Thank You :)
